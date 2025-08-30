@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="20250830205926" name="dtb:uid"/>
+    <meta content="0" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>पृथ्वीराज चौहान</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="chapter_0">
+      <navLabel>
+        <text>आवरण पृष्ठ</text>
+      </navLabel>
+      <content src="text/coverpage.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_1">
+      <navLabel>
+        <text>शीर्षक पृष्ठ</text>
+      </navLabel>
+      <content src="text/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_2">
+      <navLabel>
+        <text>प्रतिलिपि अधिकार पृष्ठ</text>
+      </navLabel>
+      <content src="text/copyrightpage.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_3">
+      <navLabel>
+        <text>विषयसूची</text>
+      </navLabel>
+      <content src="text/tocpage.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_4">
+      <navLabel>
+        <text>प्रकाशकीय (साझा प्रकाशन)</text>
+      </navLabel>
+      <content src="text/prakasakiya.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_5">
+      <navLabel>
+        <text>लामो प्रतीक्षापछि 'पृथ्वीराज चौहान' को प्रकाशन</text>
+      </navLabel>
+      <content src="text/lamo-pratikshyapachi.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_6">
+      <navLabel>
+        <text>प्रथम सर्ग</text>
+      </navLabel>
+      <content src="text/pratham-sarga.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_7">
+      <navLabel>
+        <text>द्वितीय सर्ग</text>
+      </navLabel>
+      <content src="text/dwitiya-sarga.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_8">
+      <navLabel>
+        <text>तृतीय सर्ग</text>
+      </navLabel>
+      <content src="text/tritiya-sarga.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_9">
+      <navLabel>
+        <text>चतुर्थ सर्ग</text>
+      </navLabel>
+      <content src="text/chaturtha-sarga.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_10">
+      <navLabel>
+        <text>पञ्चम सर्ग</text>
+      </navLabel>
+      <content src="text/pancham-sarga.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_11">
+      <navLabel>
+        <text>षष्ठम सर्ग</text>
+      </navLabel>
+      <content src="text/sastha-sarga.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_12">
+      <navLabel>
+        <text>सप्तम सर्ग</text>
+      </navLabel>
+      <content src="text/saptam-sarga.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_13">
+      <navLabel>
+        <text>अष्टम सर्ग</text>
+      </navLabel>
+      <content src="text/astam-sarga.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_14">
+      <navLabel>
+        <text>नवम सर्ग</text>
+      </navLabel>
+      <content src="text/navam-sarga.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_15">
+      <navLabel>
+        <text>दशम सर्ग</text>
+      </navLabel>
+      <content src="text/dasham-sarga.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_16">
+      <navLabel>
+        <text>एकादश सर्ग</text>
+      </navLabel>
+      <content src="text/ekadash-sarga.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_17">
+      <navLabel>
+        <text>द्वादश सर्ग</text>
+      </navLabel>
+      <content src="text/dwadash-sarga.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_18">
+      <navLabel>
+        <text>त्रयोदश सर्ग</text>
+      </navLabel>
+      <content src="text/trayodash-sarga.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_19">
+      <navLabel>
+        <text>चतुर्दश सर्ग</text>
+      </navLabel>
+      <content src="text/chaturdash-sarga.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_20">
+      <navLabel>
+        <text>पञ्चदश सर्ग</text>
+      </navLabel>
+      <content src="text/panchadash-sarga.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_21">
+      <navLabel>
+        <text>षोडश सर्ग</text>
+      </navLabel>
+      <content src="text/sodash-sarga.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_22">
+      <navLabel>
+        <text>सप्तदश सर्ग</text>
+      </navLabel>
+      <content src="text/saptadash-sarga.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_23">
+      <navLabel>
+        <text>अष्टदश सर्ग</text>
+      </navLabel>
+      <content src="text/astadash-sarga.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_24">
+      <navLabel>
+        <text>एकोनविंस सर्ग</text>
+      </navLabel>
+      <content src="text/ekonabis-sarga.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_25">
+      <navLabel>
+        <text>विंस सर्ग</text>
+      </navLabel>
+      <content src="text/bis-sarga.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_26">
+      <navLabel>
+        <text>एकविंस सर्ग</text>
+      </navLabel>
+      <content src="text/ekabis-sarga.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
